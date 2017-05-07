@@ -15,4 +15,8 @@ public class ex {
 		juice.size = Fresh.FreshSize.SMALL;
 		System.out.println("Size:" + juice.size);
 	}
+
+	private class foo{
+	String blah = "blah";
+	}
 }
